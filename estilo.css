@@ -1,0 +1,11 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h2 {
+  color: #333;
+}
+
+form label {
+  font-weight: bold;
+}
